@@ -26,7 +26,7 @@ MIDDLEWARE = [
 
 
 
-CORS_ALLOWED_ORIGINS = ['']
+CORS_ALLOWED_ORIGINS = ['voting-project-y1kj.onrender.com']
 
 STORAGES = {
   "default":{
