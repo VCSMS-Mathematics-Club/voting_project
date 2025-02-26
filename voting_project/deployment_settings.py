@@ -26,7 +26,7 @@ MIDDLEWARE = [
 
 
 
-CORS_ALLOWED_ORIGINS = ['https://sensou-lpem.onrender.com']
+CORS_ALLOWED_ORIGINS = ['']
 
 STORAGES = {
   "default":{
